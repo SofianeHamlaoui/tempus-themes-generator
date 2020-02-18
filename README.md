@@ -1,3 +1,5 @@
+# !!!! This is [ Protesilaos Stavrou's](https://gitlab.com/protesilaos) repo !!!
+
 # Tempus Themes Generator
 
 A nimble tool to automate the process of exporting the [Tempus colour schemes](https://gitlab.com/protesilaos/tempus-themes) into a variety of file formats.
