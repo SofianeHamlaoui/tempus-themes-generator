@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ----------------------------
+tempus_theme_name='Summer'
+tempus_theme_name_full='Tempus Summer'
+tempus_theme_name_slug='summer'
+tempus_theme_name_slug_full='tempus-summer'
+tempus_theme_name_slug_full_underscore='tempus_summer'
+tempus_theme_description='Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)'
+tempus_theme_wcag='WCAG AA'
+tempus_theme_variant='dark'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ----------------------------
+col0=202c3d       # black variant
+col1=f76f6e       # red variant
+col2=4eac6d       # green variant
+col3=af9a0a       # yellow variant
+col4=609fda       # blue variant
+col5=cc84ad       # magenta variant
+col6=3dab95       # cyan variant
+col7=919ab9       # white variant
+col8=352f49       # bright black variant
+col9=eb7b4d       # bright red variant
+col10=57ad47      # bright green variant
+col11=bd951a      # bright yellow variant
+col12=8196e8      # bright blue variant
+col13=c97ed7      # bright magenta variant
+col14=2aa9b6      # bright cyan variant
+col15=a0abae      # bright white variant

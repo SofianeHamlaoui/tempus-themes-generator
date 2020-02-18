@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ----------------------------
+tempus_theme_name='Future'
+tempus_theme_name_full='Tempus Future'
+tempus_theme_name_slug='future'
+tempus_theme_name_slug_full='tempus-future'
+tempus_theme_name_slug_full_underscore='tempus_future'
+tempus_theme_description='Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)'
+tempus_theme_wcag='WCAG AAA'
+tempus_theme_variant='dark'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ----------------------------
+col0=090a18       # black variant
+col1=ff778a       # red variant
+col2=6ab539       # green variant
+col3=bfa01a       # yellow variant
+col4=4aaed3       # blue variant
+col5=e58a82       # magenta variant
+col6=29b3bb       # cyan variant
+col7=a59ebd       # white variant
+col8=260e22       # bright black variant
+col9=f78e2f       # bright red variant
+col10=60ba80      # bright green variant
+col11=de9b1d      # bright yellow variant
+col12=8ba7ea      # bright blue variant
+col13=e08bd6      # bright magenta variant
+col14=2cbab6      # bright cyan variant
+col15=b4abac      # bright white variant

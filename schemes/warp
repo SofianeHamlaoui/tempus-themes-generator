@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ----------------------------
+tempus_theme_name='Warp'
+tempus_theme_name_full='Tempus Warp'
+tempus_theme_name_slug='warp'
+tempus_theme_name_slug_full='tempus-warp'
+tempus_theme_name_slug_full_underscore='tempus_warp'
+tempus_theme_description='Dark theme with a vibrant palette (WCAG AA compliant)'
+tempus_theme_wcag='WCAG AA'
+tempus_theme_variant='dark'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ----------------------------
+col0=001514       # black variant
+col1=fa3333       # red variant
+col2=139913       # green variant
+col3=9e8100       # yellow variant
+col4=557feb       # blue variant
+col5=d54cbf       # magenta variant
+col6=009580       # cyan variant
+col7=928080       # white variant
+col8=241828       # bright black variant
+col9=F0681A       # bright red variant
+col10=3aa73a      # bright green variant
+col11=ba8a00      # bright yellow variant
+col12=8887f0      # bright blue variant
+col13=d85cf2      # bright magenta variant
+col14=1da1af      # bright cyan variant
+col15=a29fa0      # bright white variant

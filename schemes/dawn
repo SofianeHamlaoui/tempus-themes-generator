@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ------------------------------ 
+tempus_theme_name='Dawn'
+tempus_theme_name_full='Tempus Dawn'
+tempus_theme_name_slug='dawn'
+tempus_theme_name_slug_full='tempus-dawn'
+tempus_theme_name_slug_full_underscore='tempus_dawn'
+tempus_theme_description='Light theme with a soft, slightly desaturated palette (WCAG AA compliant)'
+tempus_theme_wcag='WCAG AA'
+tempus_theme_variant='light'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ------------------------------ 
+col0=4a4b4e       # black variant
+col1=a32a3a       # red variant
+col2=206620       # green variant
+col3=745300       # yellow variant
+col4=4b529a       # blue variant
+col5=8d377e       # magenta variant
+col6=086784       # cyan variant
+col7=e2e4e1       # white variant
+col8=686565       # bright black variant
+col9=ae4e2a       # bright red variant
+col10=1a7608      # bright green variant
+col11=8d5b0a      # bright yellow variant
+col12=5c5bb2      # bright blue variant
+col13=8e47a8      # bright magenta variant
+col14=106e8c      # bright cyan variant
+col15=eff0f2      # bright white variant

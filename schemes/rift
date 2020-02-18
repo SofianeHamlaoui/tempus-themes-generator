@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ----------------------------
+tempus_theme_name='Rift'
+tempus_theme_name_full='Tempus Rift'
+tempus_theme_name_slug='rift'
+tempus_theme_name_slug_full='tempus-rift'
+tempus_theme_name_slug_full_underscore='tempus_rift'
+tempus_theme_description='Dark theme with a subdued palette on the green side of the spectrum (WCAG AA compliant)'
+tempus_theme_wcag='WCAG AA'
+tempus_theme_variant='dark'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ----------------------------
+col0=162c22       # black variant
+col1=c19904       # red variant
+col2=34b534       # green variant
+col3=7fad00       # yellow variant
+col4=30aeb0       # blue variant
+col5=c8954c       # magenta variant
+col6=5fad8f       # cyan variant
+col7=ab9aa9       # white variant
+col8=283431       # bright black variant
+col9=d2a634       # bright red variant
+col10=6ac134      # bright green variant
+col11=82bd00      # bright yellow variant
+col12=56bdad      # bright blue variant
+col13=cca0ba      # bright magenta variant
+col14=10c480      # bright cyan variant
+col15=bbbcbc      # bright white variant

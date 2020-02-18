@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ----------------------------
+tempus_theme_name='Fugit'
+tempus_theme_name_full='Tempus Fugit'
+tempus_theme_name_slug='fugit'
+tempus_theme_name_slug_full='tempus-fugit'
+tempus_theme_name_slug_full_underscore='tempus_fugit'
+tempus_theme_description='Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)'
+tempus_theme_wcag='WCAG AA'
+tempus_theme_variant='light'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ----------------------------
+col0=4d595f        # black variant
+col1=c61a14        # red variant
+col2=357200        # green variant
+col3=825e00        # yellow variant
+col4=1666b0        # blue variant
+col5=a83884        # magenta variant
+col6=007072        # cyan variant
+col7=f2ebe9        # white variant
+col8=7b6471        # bright black variant
+col9=bd401a        # bright red variant
+col10=447720       # bright green variant
+col11=985d00       # bright yellow variant
+col12=485ddf       # bright blue variant
+col13=a438c0       # bright magenta variant
+col14=00786a       # bright cyan variant
+col15=fff5f3       # bright white variant

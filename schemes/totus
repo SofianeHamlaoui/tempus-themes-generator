@@ -1,0 +1,32 @@
+# vi: ft=sh
+
+# Meta data
+# ----------------------------
+tempus_theme_name='Totus'
+tempus_theme_name_full='Tempus Totus'
+tempus_theme_name_slug='totus'
+tempus_theme_name_slug_full='tempus-totus'
+tempus_theme_name_slug_full_underscore='tempus_totus'
+tempus_theme_description='Light theme for prose or for coding in an open space (WCAG AAA compliant)'
+tempus_theme_wcag='WCAG AAA'
+tempus_theme_variant='light'
+tempus_theme_author='Protesilaos Stavrou (https://protesilaos.com)'
+
+# Colour values (HEX)
+# ----------------------------
+col0=4a484d        # black variant
+col1=a80000        # red variant
+col2=005f26        # green variant
+col3=714900        # yellow variant
+col4=1d3fcf        # blue variant
+col5=882a7a        # magenta variant
+col6=185870        # cyan variant
+col7=f3f1f3        # white variant
+col8=5f4d4f        # bright black variant
+col9=9b2230        # bright red variant
+col10=4a5700       # bright green variant
+col11=8b3800       # bright yellow variant
+col12=2d48b0       # bright blue variant
+col13=7310cb       # bright magenta variant
+col14=005589       # bright cyan variant
+col15=ffffff       # bright white variant
